@@ -10,7 +10,7 @@ Environment
 * Kinect for Windows SDK v2.0
 * Kinect for Windows SDK v2.0 Language Packs (en-US)
 * Speech Platform SDK 11
-* OpenCV 3.1.0 <sup>*2</sup>
+* OpenCV 3.2.0 <sup>*2</sup>
 * CMake 3.6.1 <sup>*3</sup>
 
 <sup>&#042;1 Some sample program (Fusion and Speech) need Visual Studio Community (or upper version), because depends on ATL.</sup>  
